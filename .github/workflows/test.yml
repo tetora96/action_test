@@ -10,7 +10,7 @@ jobs:
       fail-fast: false
       matrix:
         projectPath:
-          - .
+          - Action
         unityVersion:
           - 2022.3.2f1
         testMode:
